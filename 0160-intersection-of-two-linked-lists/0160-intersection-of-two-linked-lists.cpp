@@ -13,17 +13,18 @@ public:
             return nullptr;
         }
 
-        ListNode *l1 = headA;
-
-        while(l1){
-             ListNode *l2 = headB;
-            while(l2){
-                if(l2 == l1){
-                    return l1;
-                }
-                l2 = l2->next;
+        unordered_map<ListNode*, int> mp;
+        ListNode* temp = headA;
+        while(temp){
+            mp[temp] = 1;
+            temp = temp->next;
+        }
+        temp = headB;
+        while(temp){
+            if(mp.find(temp) != mp.end()){
+                return temp;
             }
-            l1 = l1->next;
+            temp = temp->next;
         }
 
         return nullptr;
