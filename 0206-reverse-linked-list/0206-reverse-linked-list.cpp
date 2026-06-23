@@ -10,18 +10,19 @@
  */
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* curr, ListNode* prev){
+        if(curr == nullptr){
+            return prev;
+        }
+        ListNode* front = curr->next;
+        curr->next = prev;
+        return reverseLL(front, curr);
+    }
     ListNode* reverseList(ListNode* head) {
         if(head == nullptr || head->next == nullptr){
             return head;
         }
 
-        ListNode *curr = head, *prev = nullptr;
-        while(curr != nullptr){
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
-        }
-        return prev;
+        return  reverseLL(head, nullptr);
     }
 };
