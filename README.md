@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aslam8801/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
