@@ -72,8 +72,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1301-number-of-paths-with-max-score](https://github.com/aslam8801/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/aslam8801/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/aslam8801/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
