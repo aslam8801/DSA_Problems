@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aslam8801/DSA_Problems/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/aslam8801/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/aslam8801/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aslam8801/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/aslam8801/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aslam8801/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aslam8801/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/aslam8801/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
