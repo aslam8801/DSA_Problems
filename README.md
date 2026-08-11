@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aslam8801/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aslam8801/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aslam8801/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/aslam8801/DSA_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/aslam8801/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aslam8801/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
