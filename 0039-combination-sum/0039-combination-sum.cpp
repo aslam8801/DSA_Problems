@@ -1,7 +1,8 @@
 class Solution {
 public:
     set<vector<int>> s;
-    void subs(int idx, vector<int>& curr, vector<int>& candidates, int n, vector<vector<int>>& ans, int& sum, int target){
+    void subs(int idx, vector<int>& curr, vector<int>& candidates, int n, vector<vector<int>>& ans,
+    int target, int& sum){
         if(idx >= n){
             if(sum == target){
                 if(s.find(curr) == s.end()){
@@ -11,23 +12,22 @@ public:
             }
             return ;
         }
-        if(sum + candidates[idx] <= target) {
+
+        if(sum + candidates[idx] <= target){
             sum += candidates[idx];
             curr.push_back(candidates[idx]);
-
-            subs(idx, curr, candidates, n, ans, sum, target);
-
-            curr.pop_back();
+            subs(idx, curr, candidates, n, ans, target, sum);
             sum -= candidates[idx];
+            curr.pop_back();
         }
-        subs(idx+1, curr, candidates, n, ans, sum, target);
+        subs(idx+1, curr, candidates, n, ans, target, sum);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> curr;
         int n = candidates.size();
         int idx = 0, sum = 0;
-        subs(idx, curr, candidates, n, ans, sum, target);
+        vector<vector<int>> ans;
+        vector<int> curr;
+        subs(idx, curr, candidates, n, ans, target, sum);
         return ans;
     }
 };
