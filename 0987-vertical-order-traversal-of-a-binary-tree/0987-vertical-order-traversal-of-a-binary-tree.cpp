@@ -21,7 +21,6 @@ public:
         queue<pair<TreeNode*, pair<int, int>>> todo;
 
         todo.push({root, {0, 0}});
-
         while(!todo.empty()){
             auto p = todo.front();
             todo.pop();
