@@ -30,7 +30,7 @@ public:
                 if(f->left) q.push(f->left);
                 if(f->right) q.push(f->right);
             }
-            if(level % 2 != 0){
+            if(level % 2 == 1){
                 ans.push_back(curr);
             }else{
                 reverse(curr.begin(), curr.end());
