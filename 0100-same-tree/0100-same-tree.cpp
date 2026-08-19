@@ -19,7 +19,6 @@ public:
         if(p == nullptr || q == nullptr){
             return false;
         }
-
         if(p->val != q->val){
             return false;
         }
