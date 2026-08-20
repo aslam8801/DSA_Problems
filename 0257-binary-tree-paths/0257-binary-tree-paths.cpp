@@ -32,9 +32,7 @@ public:
             return ans;
         }
         string curr = "";
-
         getPath(root, curr, ans);
-
         return ans;
     }
 };
