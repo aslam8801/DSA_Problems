@@ -15,28 +15,30 @@ public:
             return ans;
         }
 
-        queue<TreeNode*> q1;
+        queue<TreeNode*> q;
         map<TreeNode*, TreeNode*> mp;
-        q1.push(root);
+        q.push(root);
         mp[root] = nullptr;
-        while(!q1.empty()){
-            TreeNode* f = q1.front();
-            q1.pop();
-            if(f->left){
-                q1.push(f->left);
-                mp[f->left] = f;
+        while(!q.empty()){
+            TreeNode* node = q.front();
+            q.pop();
+            if(node->left){
+                q.push(node->left);
+                mp[node->left] = node;
             }
-            if(f->right){
-                q1.push(f->right);
-                mp[f->right] = f;
+
+            if(node->right){
+                q.push(node->right);
+                mp[node->right] = node;
             }
         }
 
+        set<TreeNode*> vis;
         queue<TreeNode*> q2;
         q2.push(target);
-        set<TreeNode*> s;
+        vis.insert(target);
         int dist = 0;
-        s.insert(target);
+
         while(!q2.empty()){
             if(dist == k){
                 break;
@@ -45,17 +47,18 @@ public:
             for(int i = 0; i < sz; i++){
                 TreeNode* node = q2.front();
                 q2.pop();
-                if(node->left && s.find(node->left) == s.end()){
+                if(node->left && vis.find(node->left) == vis.end()){
                     q2.push(node->left);
-                    s.insert(node->left);
+                    vis.insert(node->left);
                 }
-                if(node->right && s.find(node->right) == s.end()){
+
+                if(node->right && vis.find(node->right) == vis.end()){
                     q2.push(node->right);
-                    s.insert(node->right);
+                    vis.insert(node->right);
                 }
-                if(mp[node] != nullptr && s.find(mp[node]) == s.end()){
+                if(mp[node] != nullptr && vis.find(mp[node]) == vis.end()){
                     q2.push(mp[node]);
-                    s.insert(mp[node]);
+                    vis.insert(mp[node]);
                 }
             }
             dist += 1;
