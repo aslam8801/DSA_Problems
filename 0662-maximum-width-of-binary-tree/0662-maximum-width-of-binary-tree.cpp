@@ -19,11 +19,11 @@ public:
         int ans = 0;
         queue<pair<TreeNode*, unsigned long long>> q;
         q.push({root, 0});
+
         while(!q.empty()){
             int sz = q.size();
             unsigned long long minIdx = q.front().second;
             unsigned long long first, last;
-            
             for(int i = 0; i < sz; i++){
                 unsigned long long currIdx = q.front().second - minIdx;
                 TreeNode* node = q.front().first;
@@ -39,7 +39,7 @@ public:
                     q.push({node->right, 2*currIdx+2});
                 }
             }
-            ans = max(ans, (int)(last-first+1));
+            ans = max(ans, (int)(last - first + 1));
         }
         return ans;
     }
