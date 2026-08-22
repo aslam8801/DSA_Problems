@@ -1,14 +1,14 @@
 class Solution {
 public:
     int fib(int n) {
-        int dp[31];
-        dp[0] = 0;
-        dp[1] = 1;
+        int p1 = 0, p2 = 1;
 
         for(int i = 2; i <= n; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            int curr = p1 + p2;
+            p1 = p2;
+            p2 = curr;
         }
 
-        return dp[n];
+        return (n <= 1 ? n : p2);
     }
 };
