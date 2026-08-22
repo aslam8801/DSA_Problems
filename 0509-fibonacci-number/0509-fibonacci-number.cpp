@@ -1,10 +1,19 @@
 class Solution {
 public:
-    int fib(int n) {
+    int dp[30+1];
+    int fibb(int n){
         if(n <= 1){
             return n;
         }
 
-        return fib(n-1) + fib(n-2);
+        if(dp[n] != -1){
+            return dp[n];
+        }
+
+        return dp[n] = fibb(n-1) + fibb(n-2);
+    }
+    int fib(int n) {
+        memset(dp, -1, sizeof(dp));
+        return fibb(n);
     }
 };
