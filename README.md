@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aslam8801/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aslam8801/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aslam8801/DSA_Problems/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aslam8801/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/aslam8801/DSA_Problems/tree/master/1288-remove-covered-intervals) |
