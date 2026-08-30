@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aslam8801/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aslam8801/DSA_Problems/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/aslam8801/DSA_Problems/tree/master/1288-remove-covered-intervals) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aslam8801/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aslam8801/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aslam8801/DSA_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aslam8801/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aslam8801/DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aslam8801/DSA_Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/aslam8801/DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
