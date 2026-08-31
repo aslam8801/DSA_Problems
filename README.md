@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aslam8801/DSA_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aslam8801/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aslam8801/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aslam8801/DSA_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aslam8801/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/aslam8801/DSA_Problems/tree/master/3731-find-missing-elements) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aslam8801/DSA_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
