@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aslam8801/DSA_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aslam8801/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aslam8801/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -305,8 +308,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
