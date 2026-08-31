@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aslam8801/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/aslam8801/DSA_Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/aslam8801/DSA_Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aslam8801/DSA_Problems/tree/master/0141-linked-list-cycle) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aslam8801/DSA_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/aslam8801/DSA_Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/aslam8801/DSA_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/aslam8801/DSA_Problems/tree/master/0053-maximum-subarray) |
