@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aslam8801/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aslam8801/DSA_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aslam8801/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aslam8801/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0229-majority-element-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aslam8801/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aslam8801/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/aslam8801/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
