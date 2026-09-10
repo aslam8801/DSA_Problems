@@ -4,15 +4,14 @@ public:
         if(n == 0){
             return 0;
         }
-        int dp[n+1];
-        memset(dp, -1, sizeof(dp));
 
-        dp[0] = 0;
-        dp[1] = 1;
+        int first = 0, sec = 1;
+
         for(int i = 2; i < n+1; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            int ans = first + sec;
+            first = sec;
+            sec = ans;
         }
-
-        return dp[n];
+        return sec;
     }
 };
