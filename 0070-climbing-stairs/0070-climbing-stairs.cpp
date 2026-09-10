@@ -1,20 +1,19 @@
 class Solution {
 public:
-
-    int dp[46];
-    int solve(int n){
-        if(n <= 1){
-            return 1;
-        }
-
-        if(dp[n] != -1){
-            return dp[n];
-        }
-
-        return dp[n] = solve(n-1) + solve(n-2);
-    }
     int climbStairs(int n) {
-        memset(dp, -1, sizeof(dp));
-        return solve(n);
+        if(n <= 1){
+            return n;
+        }
+        vector<int> dp(n+1, -1);
+
+        dp[0] = 0;
+        dp[1] = 1;
+        dp[2] = 2;
+
+        for(int i = 3; i < n+1; i++){
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+
+        return dp[n];
     }
 };
