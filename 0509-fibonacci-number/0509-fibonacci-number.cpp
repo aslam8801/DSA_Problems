@@ -1,14 +1,10 @@
 class Solution {
 public:
     int fib(int n) {
-        int p1 = 0, p2 = 1;
-
-        for(int i = 2; i <= n; i++){
-            int curr = p1 + p2;
-            p1 = p2;
-            p2 = curr;
+        if(n <= 1){
+            return n;
         }
 
-        return (n <= 1 ? n : p2);
+        return fib(n-1) + fib(n-2);
     }
 };
