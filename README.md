@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/aslam8801/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aslam8801/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aslam8801/DSA_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aslam8801/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aslam8801/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aslam8801/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aslam8801/DSA_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aslam8801/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aslam8801/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aslam8801/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aslam8801/DSA_Problems/tree/master/0198-house-robber) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aslam8801/DSA_Problems/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/aslam8801/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Sliding Window
 |  |
