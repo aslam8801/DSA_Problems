@@ -1,39 +1,39 @@
 class Solution {
 public:
-    bool dfs(unordered_map<int, vector<int>>& adj, int u, vector<bool>& vis, vector<bool>& inR){
-        vis[u] = true;
-        inR[u] = true;
+    void bfs(unordered_map<int, vector<int>>& adj, queue<int>& q, vector<int>& inD, int& cnt){
 
-        for(auto &v:adj[u]){
-            if(!vis[v]){
-                if(dfs(adj, v, vis, inR)){
-                    return true;
+        while(!q.empty()){
+            int u = q.front();
+            q.pop();
+            cnt += 1;
+            for(auto &v:adj[u]){
+                inD[v]--;
+                if(inD[v] == 0){
+                    q.push(v);
                 }
-            }else if(inR[v] == true){
-                return true;
             }
         }
-        inR[u] = false;
-        return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         unordered_map<int, vector<int>> adj;
-
-        for(auto &it:prerequisites){
+        vector<int> inD(numCourses, 0);
+        for(auto& it:prerequisites){
             int u = it[0], v = it[1];
             adj[v].push_back(u);
+            inD[u]++;
         }
 
-        vector<bool> vis(numCourses, false), inR(numCourses, false);
-        bool ans = false;
+        queue<int> q;
         for(int i = 0; i < numCourses; i++){
-            if(!vis[i]){
-                ans = dfs(adj, i, vis, inR);
-                if(ans){
-                    break;
-                }
+            if(inD[i] == 0){
+                q.push(i);
             }
         }
-        return (ans ? false : true);
+
+        int cnt = 0;
+        bfs(adj, q, inD, cnt);
+
+        return (cnt == numCourses ? true : false);
+
     }
 };
