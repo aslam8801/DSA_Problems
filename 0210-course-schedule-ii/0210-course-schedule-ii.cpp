@@ -1,40 +1,64 @@
 class Solution {
 public:
-    vector<int> bfs(unordered_map<int, vector<int>>& adj, vector<int>& inD){
-        queue<int> q;
-        for(int i = 0; i < inD.size(); i++){
-            if(inD[i] == 0){
-                q.push(i);
+    bool dfs(unordered_map<int, vector<int>>& adj,
+             int u,
+             vector<bool>& vis,
+             vector<bool>& inRec,
+             stack<int>& st) {
+
+        vis[u] = true;
+        inRec[u] = true;
+
+        for(auto &v : adj[u]) {
+
+            if(!vis[v]) {
+                if(dfs(adj, v, vis, inRec, st)) {
+                    return true;
+                }
+            }
+            else if(inRec[v]) {
+                return true;   // cycle
             }
         }
-        int cnt = 0;
-        vector<int> ans;
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-            cnt += 1;
-            ans.push_back(u);
 
-            for(auto &v:adj[u]){
-                inD[v]--;
-                if(inD[v] == 0){
-                    q.push(v);
+        inRec[u] = false;
+        st.push(u);
+
+        return false;
+    }
+
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+
+        unordered_map<int, vector<int>> adj;
+
+        for(auto &it : prerequisites) {
+            int u = it[0];
+            int v = it[1];
+
+            adj[v].push_back(u);
+        }
+
+        vector<bool> vis(numCourses, false);
+        vector<bool> inRec(numCourses, false);
+
+        stack<int> st;
+
+        for(int i = 0; i < numCourses; i++) {
+
+            if(!vis[i]) {
+                if(dfs(adj, i, vis, inRec, st)) {
+                    return {};     // cycle exists
                 }
             }
         }
 
-        return (cnt == inD.size() ? ans : vector<int>{});
-    }
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> adj;
-        vector<int> inD(numCourses, 0);
+        vector<int> ans;
 
-        for(auto &it:prerequisites){
-            int u = it[0], v = it[1];
-            adj[v].push_back(u);
-            inD[u]++;
+        while(!st.empty()) {
+            ans.push_back(st.top());
+            st.pop();
         }
 
-        return bfs(adj, inD);
+        return ans;
     }
 };
