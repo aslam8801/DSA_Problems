@@ -7,14 +7,15 @@ public:
             if(color[v] == currColor){
                 return false;
             }
-            if(color[v] == -1){
-                int colorV = 1 - currColor;
+
+            if(color[v]== -1){
+                int colorV  = 1 - currColor;
+                color[v] = colorV;
                 if(dfs(graph, v, color, colorV) == false){
                     return false;
                 }
             }
         }
-
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
@@ -24,13 +25,12 @@ public:
 
         for(int i = 0; i < V; i++){
             if(color[i] == -1){
-                bool hasBipartite = dfs(graph, i, color, 1);
-                if(!hasBipartite){
-                    return false;
+                bool ans = dfs(graph, i, color, 1);
+                if(!ans){
+                    return ans;
                 }
             }
         }
-
         return true;
     }
 };
