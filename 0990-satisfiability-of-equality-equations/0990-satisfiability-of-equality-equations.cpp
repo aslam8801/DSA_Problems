@@ -25,7 +25,7 @@ public:
     }
     bool equationsPossible(vector<string>& equations) {
         parent.resize(26);
-        rank.resize(26, 0);
+        rank.resize(26);
 
         for(int i = 0; i < 26; i++){
             parent[i] = i;
@@ -39,8 +39,7 @@ public:
 
         for(string &s:equations){
             if(s[1] == '!'){
-                int first = s[0] - 'a';
-                int  second = s[3] - 'a';
+                int first = s[0] - 'a', second = s[3] - 'a';
 
                 if(find(first) == find(second)){
                     return false;
