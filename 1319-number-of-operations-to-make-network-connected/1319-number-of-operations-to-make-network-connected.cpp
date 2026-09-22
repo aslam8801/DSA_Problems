@@ -35,8 +35,6 @@ public:
             parent[i] = i;
         }
 
-         
-
         for(auto &curr:connections){
             unionT(curr[0], curr[1]);
         }
@@ -49,6 +47,6 @@ public:
             }
         }
 
-        return component-1;
+        return component - 1;
     }
 };
