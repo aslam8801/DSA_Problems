@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aslam8801/DSA_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aslam8801/DSA_Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aslam8801/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aslam8801/DSA_Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aslam8801/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aslam8801/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aslam8801/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aslam8801/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aslam8801/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aslam8801/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -407,4 +410,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aslam8801/DSA_Problems/tree/master/0785-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
