@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aslam8801/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aslam8801/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aslam8801/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/aslam8801/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aslam8801/DSA_Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aslam8801/DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aslam8801/DSA_Problems/tree/master/0743-network-delay-time) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aslam8801/DSA_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
