@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aslam8801/DSA_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aslam8801/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/aslam8801/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aslam8801/DSA_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aslam8801/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aslam8801/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aslam8801/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aslam8801/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/aslam8801/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aslam8801/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aslam8801/DSA_Problems/tree/master/0990-satisfiability-of-equality-equations) |
