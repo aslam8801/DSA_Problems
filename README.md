@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aslam8801/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aslam8801/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/aslam8801/DSA_Problems/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aslam8801/DSA_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aslam8801/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aslam8801/DSA_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3693-climbing-stairs-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3693-climbing-stairs-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aslam8801/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aslam8801/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/aslam8801/DSA_Problems/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String
 |  |
 | ------- |
@@ -464,4 +467,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aslam8801/DSA_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aslam8801/DSA_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
