@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aslam8801/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aslam8801/DSA_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aslam8801/DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aslam8801/DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aslam8801/DSA_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aslam8801/DSA_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aslam8801/DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aslam8801/DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aslam8801/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3693-climbing-stairs-ii](https://github.com/aslam8801/DSA_Problems/tree/master/3693-climbing-stairs-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aslam8801/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aslam8801/DSA_Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aslam8801/DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aslam8801/DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
