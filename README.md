@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/aslam8801/DSA_Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aslam8801/DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aslam8801/DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aslam8801/DSA_Problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
 |  |
 | ------- |
